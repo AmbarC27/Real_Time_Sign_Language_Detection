@@ -1,0 +1,3 @@
+[submodule "ReactComputerVisionTemplate"]
+	path = ReactComputerVisionTemplate
+	url = https://github.com/nicknochnack/ReactComputerVisionTemplate
